@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - using the printf function
+* main - Using a program that pints a line with the printf function
 * return: 0 (return zero)
 */
 int main(void)
