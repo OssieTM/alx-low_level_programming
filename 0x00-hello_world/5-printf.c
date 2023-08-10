@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Using a program that pints a line with the printf function
-* return: 0 (return zero)
+* Return: 0 (Success)
 */
 int main(void)
 {
