@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isupper - capital letters
- * @c: char to be checked
+ * @c: character to be checked
  * * Return: 0 or 1
  */
 
